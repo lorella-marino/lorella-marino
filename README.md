@@ -1,4 +1,4 @@
-Piacere sono Lorella! Sono una junior Full Stack Developer e una Graphic & Web Designer 👩🏻‍💻
+Sono Lorella! Una junior Full Stack Developer e una Graphic & Web Designer 👩🏻‍💻
 
 Con la mia laurea magistrale in Design 🎓 ho maturato un solido approccio progettuale attento all’estetica, alla funzionalità e al contesto. Ho lavorato su progetti di grafica editoriale, brand identity, UX/UI e contenuti digitali, collaborando con aziende in ambito di comunicazione e marketing.
 
@@ -9,7 +9,7 @@ Sono una persona entusiasta, positiva e creativa, con una forte attenzione ai de
 Nel tempo libero amo viaggiare 🌍, scoprire nuovi sapori 🍜, ascoltare podcast 🎧 e guardare serie TV o anime 🎬.
 
 ✉️lorellamarino@gmail.com
-📄Portfolio: urly.it/31b1cm
+📄CV e Portfolio: urly.it/31bjj1
 
 Posizioni:
 🔹Full Stack Developer
