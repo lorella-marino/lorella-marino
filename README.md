@@ -1,23 +1,34 @@
 Sono Lorella! Una junior Full Stack Developer e una Graphic & Web Designer 👩🏻‍💻
 
-Con la mia laurea magistrale in Design 🎓 ho maturato un solido approccio progettuale attento all’estetica, alla funzionalità e al contesto. Ho lavorato su progetti di grafica editoriale, brand identity, UX/UI e contenuti digitali, collaborando con aziende in ambito di comunicazione e marketing.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorella-marino)
 
-Essendo appassionata al web design, ho intrapreso un percorso intensivo di 6 mesi full-time con Epicode come Full Stack Web Developer 💻, acquisendo competenze sia nel front-end (HTML, CSS, JavaScript, React, Redux) che nel back-end (Java, Spring, PostgreSQL), sviluppando applicazioni web complete e funzionali. 
+---
 
-Sono una persona entusiasta, positiva e creativa, con una forte attenzione ai dettagli. Lavoro con responsabilità sia in autonomia che in team, e cerco un ambiente dinamico dove poter unire design e sviluppo, contribuendo alla realizzazione di progetti ben strutturati ed esteticamente curati✨
+## 🎨 Frontend
 
-Nel tempo libero amo viaggiare 🌍, scoprire nuovi sapori 🍜, ascoltare podcast 🎧 e guardare serie TV o anime 🎬.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-✉️lorellamarino@gmail.com
-📄CV e Portfolio: urly.it/31bjj1
-Linkedin: www.linkedin.com/in/lorella-marino 
+---
 
-Posizioni:
-🔹Full Stack Developer
-🔹Front-end Developer
-🔸UX/UI Designer
-🔸Graphic Designer
+## ⚙️ Backend
 
-Dove?
-💻Da remoto
-📍Palermo
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Lombok](https://img.shields.io/badge/Lombok-%23FF5959?style=for-the-badge&logo=lombok&logoColor=white)
+
+---
+
+## 🛠 Strumenti
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
