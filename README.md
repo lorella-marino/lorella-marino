@@ -10,6 +10,7 @@ Nel tempo libero amo viaggiare 🌍, scoprire nuovi sapori 🍜, ascoltare podca
 
 ✉️lorellamarino@gmail.com
 📄CV e Portfolio: urly.it/31bjj1
+Linkedin: www.linkedin.com/in/lorella-marino 
 
 Posizioni:
 🔹Full Stack Developer
