@@ -1,7 +1,7 @@
 # Piacere, sono Lorella 👋🏻
 
 Sono una **Junior Full Stack Developer** e **Graphic & Web Designer** 👩🏻‍💻 con esperienza in **UX/UI**, **grafica** e **sviluppo web**.  
-<br>Positiva, creativa e attenta ai dettagli, progetto soluzioni **funzionali**, **accessibili** ed esteticamente **curate**, unendo design e sviluppo.
+<br>Positiva, creativa e attenta ai dettagli, progetto soluzioni **funzionali**, **accessibili** ed **esteticamente curate**, unendo design e sviluppo.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lorella-marino)
 
